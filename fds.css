@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+}
+.servise{
+    width: 1171;
+height: 50.408084869384766;
+display: flex;
+border-radius: 5px;
+
+}
+a{
+   
+  display: flex;
+    
+}
+ul{
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+ gap: 60px;
+
+}
+a{
+    text-decoration: none;
+
+color: rgba(54, 56, 83, 1) ;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+   
+}
+a:hover{
+transition: 1500ms;
+color: rgba(255, 104, 56, 1) ;
+}
+header{
+  
+    padding-top: 70px;
+}
+button{
+    background: rgba(255, 104, 56, 1);
+color: white;
+
+}
+.buttoy{
+    width: 120px;
+    height: 50.408084869384766px;
+    top: -1620.64px;
+    left: 553px;
+    border-radius: 5px;
+    
+
+}
+.gg{
+
+
+    font-size: 45px; 
+color: rgba(54, 56, 83, 1);
+
+}
+.bg{
+
+font-size: 45px;
+    
+color: rgba(255, 122, 80, 1) ;
+}
+
+.section-1{
+    display: flex;
+}
+.fd{
+
+color: rgba(54, 56, 83, 1) ;
+}
+.ts{
+    padding-top: 190px;
+    padding-left: 95px;
+}
+.ir{
+    padding-top: 52px;
+}
+.b1{
+    width: 163px;
+height: 50.4080810546875px;
+top: 607.78px;
+left: 95px;
+border-radius: 5px;
+margin-top: 45px;
+}
+
+.section-2{
+
+    display: flex;
+}
+.nn{
+    margin-top: 233px;
+}
+.bz{
+    margin-top: 124px;
+}
+.qw{
+    text-align: center;
+    padding-top: 15px;
+}
+.mn{
+    display: flex;
+    gap: 43px;
+    padding-left: 156px;
+    padding-right: 115px;
+    margin-top: 50px;
+}
+.mz{
+
+color: rgba(54, 56, 83, 1) ;
+}
+.ji{
+    width: 79px;
+height: 33px;
+top: 2171px;
+left: 1207px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+
+}
+.hj{
+    width: 361px;
+height: 417px;
+top: 1809px;
+left: 964px;
+border-top-left-radius: 53px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 53px;
+border-bottom-left-radius: 5px;
+
+}
+.section-4{
+    display: flex;
+margin-top: 163px;
+}
+.e1{
+    margin-top: 170px;
+}
+.ovq{
+    background: rgba(255, 122, 80, 1);
+    width: 1170px;
+    height: 312px;
+    top: 2979px;
+    left: 138px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 197px;
+    margin-top: 110px;
+}
+.mm{
+    padding-top: 59px;
+}
+.tg{
+    padding-top: 60px;
+    
+    text-align: center;
+}
+.uu{
+    align-items: center;
+}
